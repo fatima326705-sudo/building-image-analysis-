@@ -41,8 +41,7 @@ The analysis includes brightness statistics, RGB color analysis, and graphs show
 Conclusion
 ## Project Summary
 
-![Building Image Analysis](Building%20Image%20Analysis%20Project%20Summary.png)
-
+![Building Image Analysis](Building%20Image%20Analysis%20Project%20Summary%20.png)
 This project demonstrates how Python can be used to process and analyze building images. Resizing images provides a consistent image size, NumPy supports numerical analysis, and Matplotlib helps present the results visually.
 
 Author
